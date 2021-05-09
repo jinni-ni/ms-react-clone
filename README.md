@@ -19,3 +19,5 @@
 5. Git installed on your system. Visit [https://git-scm.com] to download and install git.
 
 - Note that you can install tailwindcss in your workspace if you don't want to use the CDN. Visit [https://tailwindcss.com/docs/installation] for a more detailed explanation.
+
+1. npm i react-icons --save
